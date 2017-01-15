@@ -1,0 +1,12 @@
+
+Prezado Bruno,
+
+Veja o exemplo abaixo, onde você pode trabalhar com Array ou Lista em Java.
+
+public static void main(String[] args) {
+        ClienteFilme cf = new ClienteFilme();
+
+
+        // Criação de uma Lista
+        List<ClienteFilme> lista = new ArrayList<ClienteFilme>();
+        lista.add(new ClienteFilme());

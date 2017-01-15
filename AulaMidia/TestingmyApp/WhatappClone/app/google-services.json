@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072589936043",
+    "firebase_url": "https://whatappcursoandroid.firebaseio.com",
+    "project_id": "whatappcursoandroid",
+    "storage_bucket": "whatappcursoandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072589936043:android:f101ece47eefb566",
+        "android_client_info": {
+          "package_name": "br.unisantos.whatappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072589936043-j0s780h1hl9hdi1g9ig5bu5n1p7ee9r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unisantos.whatappclone",
+            "certificate_hash": "55C1039B540F2B81AB0D9CD97A3AB141A80A64EA"
+          }
+        },
+        {
+          "client_id": "1072589936043-jp7s5r160lbekkuc3feau9n95n2oftvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDODrWYq6db7mlrlxqRX_G9BxO-LGR4tv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072589936043-jp7s5r160lbekkuc3feau9n95n2oftvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

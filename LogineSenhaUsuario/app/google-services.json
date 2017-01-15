@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340061465323",
+    "firebase_url": "https://loginesenha-4d83a.firebaseio.com",
+    "project_id": "loginesenha-4d83a",
+    "storage_bucket": "loginesenha-4d83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340061465323:android:4b4bc127dd2f3e55",
+        "android_client_info": {
+          "package_name": "br.unisantos.loginesenhausuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340061465323-8hn7e005p6n8bjofs2qtcbdbgelrch7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unisantos.loginesenhausuario",
+            "certificate_hash": "55C1039B540F2B81AB0D9CD97A3AB141A80A64EA"
+          }
+        },
+        {
+          "client_id": "340061465323-vlcb2j1cin1vi5bvnrgatd3kdfr986q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbvjIjBNOxemY6RmW-Xbua--f-_RCt3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340061465323-vlcb2j1cin1vi5bvnrgatd3kdfr986q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
